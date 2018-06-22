@@ -1,0 +1,17 @@
+POST /products HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           en-US,en;q=0.9
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Content-Length:            103
+Content-Type:              application/x-www-form-urlencoded
+Cookie:                    XSRF-TOKEN=eyJpdiI6IkpLZzF4VmRRWVluWm1TSyt4UjBMMnc9PSIsInZhbHVlIjoiQmlwdEJKUWRjY2pSXC9WSk5nM2JrMUpGVGlNbFFhYklLdTVUZXJmVWJsZDA1dnp3OEN5TE1kOHUrV0FwWnozajB1emtJRE5nMGo2ZDhkVHFiMXFLUm9BPT0iLCJtYWMiOiJkNWZhMzE3OWFlNTc1OTkwYTZjNjEwMjUwZTk3ZmE5MTM1Y2JiMzIwNWEzZGY3MjM4MWIyN2UwOTMyYTgxZjY1In0%3D; laravel_session=eyJpdiI6IlwvbFVJYW1MN0xocjd1Wm51a3pXUkR3PT0iLCJ2YWx1ZSI6IjVIcFJmR2QwRFFzS3JNWGR4XC8rZ0ttdEhDM0xFb2tVSTVWd09MbUZGMisweVNWZ0FCdmZGTm1wMUJOV05vUHJRUFUyY0NQYkMyZ3AwV3ZuYnBhWjZkUT09IiwibWFjIjoiNTdjNDYwZjM0YTQ2NTYxMjYzNDkyNGFmM2EzNmQ3OTQ5NjlkMWZhMmZmMGU0NGRjYzE3ZjA4MTA2ZmY3NDMyMSJ9
+Host:                      127.0.0.1:8000
+Origin:                    http://127.0.0.1:8000
+Referer:                   http://127.0.0.1:8000/?productName=&quantityInStock=&pricePerItem=&productname=Submit
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+Cookie: XSRF-TOKEN=lekDnEohy48u86FSrHgJFP0i9dIRONaEnfzWpKmS; laravel_session=0sQ2GWbzp3raptzm7YHtC8jYJQBHmQHe7blOkWI6
+
+_token=lekDnEohy48u86FSrHgJFP0i9dIRONaEnfzWpKmS&productName=Iphone&quantityInStock=524&pricePerItem=254
